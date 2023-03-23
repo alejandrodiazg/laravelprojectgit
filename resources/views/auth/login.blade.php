@@ -43,5 +43,5 @@
     <input type="submit" value="Iniciar sesión" class="button">
 </form>
 
-<p>¿No tienes una cuenta? <a href="{{route('register')}}" class="link">Crear cuenta</a></p>
+<p>¿No tienes una cuenta? <a href="{{route('register')}}" class="link">Crear cuenta nueva</a></p>
 @endsection
