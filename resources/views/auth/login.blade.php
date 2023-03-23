@@ -38,7 +38,7 @@
         </div>
     </div>
 
-    <a href="{{route('password.request')}}" class="password-reset">Olvidé mi contraseña</a>
+    <a href="{{route('password.request')}}" class="password-reset">Olvidé mi contraseña, ingresar ahora</a>
 
     <input type="submit" value="Iniciar sesión" class="button">
 </form>
